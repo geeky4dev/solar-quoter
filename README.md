@@ -87,6 +87,7 @@ GitHub Pages (with some config)
 
 No backend server is needed since EmailJS handles the email sending.
 
+
 🛡️ Notes
 All form data must match the variable names used in your EmailJS template.
 
@@ -96,10 +97,4 @@ For production, avoid hardcoding keys — use environment variables instead.
 
 
 
----
-
-
-
-
-...
 
