@@ -11,6 +11,11 @@
 
 ---
 
+![Solar Quote 1](https://github.com/user-attachments/assets/4d19efa7-7410-48de-930f-2571c69291b8)
+![Solar Quote 2](https://github.com/user-attachments/assets/0d9eb0d8-baee-4feb-92fd-b9692df4812d)
+
+---
+
 ## 📦 Technologies Used
 
 - [React](https://reactjs.org/) (Frontend)
