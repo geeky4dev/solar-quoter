@@ -38,6 +38,7 @@ solar-quoter/
 
 ```bash
 git clone https://github.com/your-username/solar-quoter.git
+
 cd solar-quoter
 
 ### 2. **Install dependencies
