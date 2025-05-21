@@ -19,16 +19,16 @@
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure  
 
-solar-quoter/
-├── public/
-├── src/
-│ ├── QuoteForm.jsx # Main form component
-│ └── App.jsx # Renders QuoteForm
-├── .env # (Optional) EmailJS keys (not used here directly)
-├── package.json
-└── README.md
+solar-quoter/  
+├── public/  
+├── src/  
+│ ├── QuoteForm.jsx # Main form component  
+│ └── App.jsx # Renders QuoteForm  
+├── .env # (Optional) EmailJS keys (not used here directly)  
+├── package.json  
+└── README.md  
 
 ---
 
