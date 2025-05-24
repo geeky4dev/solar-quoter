@@ -100,11 +100,11 @@ Ensure your public key is correct and from the Account > API Keys section in Ema
 
 For production, avoid hardcoding keys — use environment variables instead.
 
-...
-📜 License
-MIT License.
+...  
+📜 License  
+MIT License.  
 
-Created by geeky4dev – feel free to fork, contribute, or star 🌟 the project!
+Created by geeky4dev – feel free to fork, contribute, or star 🌟 the project!  
 
 
 
